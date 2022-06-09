@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string-array name="Iconos">
+            <item>Icono 1</item>
+            <item>Icono 2</item>
+            <item>Icono 3</item>
+        </string-array>
+</resources>
